@@ -1,5 +1,5 @@
 #!/bin/bash
-GPG_KEY="DF9111724E146D6F2D08314A95352E56CAF54985"
+GPG_KEY="5F8F31465D66A92C782B653531C95396FB2273B2"
 OUTPUT_DIR="publish"
 
 script_full_path=$(dirname "$0")
@@ -17,14 +17,14 @@ lzma -c9 $OUTPUT_DIR/Packages > $OUTPUT_DIR/Packages.lzma
 
 echo "[Repository] Generating Release..."
 apt-ftparchive \
-        -o APT::FTPArchive::Release::Origin="Hekatos" \
-        -o APT::FTPArchive::Release::Label="Hekatos" \
+        -o APT::FTPArchive::Release::Origin="beerpsi" \
+        -o APT::FTPArchive::Release::Label="beerpsi" \
         -o APT::FTPArchive::Release::Suite="stable" \
         -o APT::FTPArchive::Release::Version="1.0" \
-        -o APT::FTPArchive::Release::Codename="hekatos" \
+        -o APT::FTPArchive::Release::Codename="beerpsi" \
         -o APT::FTPArchive::Release::Architectures="iphoneos-arm" \
         -o APT::FTPArchive::Release::Components="main" \
-        -o APT::FTPArchive::Release::Description="Combatting jailbreak detection, one tweak at a time" \
+        -o APT::FTPArchive::Release::Description="beerpsi's shitposting repo" \
         release $OUTPUT_DIR > $OUTPUT_DIR/Release
 
 echo "[Repository] Signing Release using GPG Key..."
