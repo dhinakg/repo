@@ -1,35 +1,15 @@
-Package: org.hekatos.axisbankpatch
+Package: org.beerpsi.launchctl-reboot-userspac
 Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Tweaks
-Maintainer: joshuah345 <joshuah345@gmail.com>
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: ./pool/org.hekatos.axisbankpatch_1.0.1_iphoneos-arm.deb
-Size: 1808
-MD5sum: 1328f5d74fe88e693d3f21a434280b28
-SHA1: 659756b967f2b7e4a6f684f0373a0123a4df2379
-SHA256: ebc2e206821f3333fe66e35a1ab7c5663cad31c2024f8a8644480fb801f63051
-SHA512: 276263f1f8f807706143b54dc26d6c8020593d54a30576288f0971d5481c21437aab7e13dfc7a6281be3cbae1b1d2aa373013b710f9a1855d3fcf3c446dc59fb
-Description: Simple tweak that bypasses jb detection in Axis Bank Mobile Banking.
-Name: Axis Bank Patch
-Author: Superuser1958
-Icon: icons/axisbankpatch.png
-
-Package: org.hekatos.uconnectbypass
-Architecture: iphoneos-arm
-Version: 0.0.1
-Section: Tweaks
-Maintainer: beerpsi, Hekatos contributors <beerpsi@duck.com>
-Installed-Size: 216
-Depends: mobilesubstrate
-Filename: ./pool/org.hekatos.uconnectbypass_0.0.1_iphoneos-arm.deb
-Size: 3814
-MD5sum: 8e9f6dd4a2d2e0c50f6216608a6d7511
-SHA1: ccca8a6774fb9c7d079b89f2913b2ebf4a5578cd
-SHA256: 994a0feeb3882ca315920f102f85338885932fc8425ef7c8cbd760e5bf592c1b
-SHA512: 64872403514d3439a1a22ec276618cf6b3edfdde8cc14e2d04bf7172a86567c58b231080fab7657a4c07c565befda2cee686f395fcbc4789a8c27b2acbc4b424
-Description: Bypasses jailbreak detection in the Uconnect app
-Name: Uconnect Jailbreak Bypass
-Author: ChosenZero
+Version: 0.0.3
+Maintainer: beerpsi <beerpsi@duck.com>
+Depends: dash | bash
+Filename: ./pool/org.beerpsi.launchctl-reboot-userspac_0.0.3_iphoneos-arm.deb
+Size: 1144
+MD5sum: e6f2bcd219ba2896bfdb7e77d889965f
+SHA1: a1778d0345f578f28df5592a706c9dd5f8e12bc2
+SHA256: c56bfd690f831e8ae136d4fc81c99e33450839b9424824cf9c03387eebeec7ba
+SHA512: c36c94d1fc6f25cbabd8b9059b1635f7c0d516ae62a36cd92cf74962b5005d9dc0ecd8690a9d4cf321379f67a2cd04eb8f93d61ce1d001e69c6bc17986560035
+Homepage: https://beerpsi.me
+Description: Attempts to fix typos when running 'launchctl reboot userspace'
+Name: launchctl reboot userspac
 
