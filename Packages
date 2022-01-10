@@ -29,3 +29,19 @@ Homepage: https://beerpsi.me
 Description: Attempts to fix typos when running 'launchctl reboot userspace'
 Name: launchctl reboot userspac
 
+Package: org.beerpsi.launchctl-reboot-userspac
+Architecture: iphoneos-arm
+Version: 0.0.4
+Section: System
+Maintainer: beerpsi <beerpsi@duck.com>
+Depends: dash | bash
+Filename: ./pool/org.beerpsi.launchctl-reboot-userspac_0.0.4_iphoneos-arm.deb
+Size: 1228
+MD5sum: 8339e90868e149a567338a0f004e0434
+SHA1: ef2a9d903b60c807dee598e838dbeafeffefd669
+SHA256: 8c48c9057d8c0292a539b918b449450656a1b2e97132eb372fd8047840d557ab
+SHA512: da11e02d476f301dc3339778bd0dc787351fdda200f5e522c7c0d2dc2c0773dd91f13048f5902b65da15b6d57b03ff0b5a4d229a593afe0bece79090e153f119
+Homepage: https://beerpsi.me
+Description: Attempts to fix typos when running 'launchctl reboot userspace'
+Name: launchctl reboot userspac
+
