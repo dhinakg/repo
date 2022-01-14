@@ -1,5 +1,5 @@
 #!/bin/bash
-GPG_KEY="5F8F31465D66A92C782B653531C95396FB2273B2"
+GPG_KEY="71C9AF96CD2F3A8A837EFFBB015D4A9B1D4A2370"
 OUTPUT_DIR="publish"
 
 script_full_path=$(dirname "$0")
@@ -17,14 +17,14 @@ lzma -c9 $OUTPUT_DIR/Packages > $OUTPUT_DIR/Packages.lzma
 
 echo "[Repository] Generating Release..."
 apt-ftparchive \
-        -o APT::FTPArchive::Release::Origin="beerpsi" \
-        -o APT::FTPArchive::Release::Label="beerpsi" \
+        -o APT::FTPArchive::Release::Origin="dhinakg" \
+        -o APT::FTPArchive::Release::Label="dhinakg" \
         -o APT::FTPArchive::Release::Suite="stable" \
         -o APT::FTPArchive::Release::Version="1.0" \
-        -o APT::FTPArchive::Release::Codename="beerpsi" \
+        -o APT::FTPArchive::Release::Codename="dhinakg" \
         -o APT::FTPArchive::Release::Architectures="iphoneos-arm" \
         -o APT::FTPArchive::Release::Components="main" \
-        -o APT::FTPArchive::Release::Description="beerpsi's shitposting repo" \
+        -o APT::FTPArchive::Release::Description="dhinakg repo" \
         release $OUTPUT_DIR > $OUTPUT_DIR/Release
 
 echo "[Repository] Signing Release using GPG Key..."
