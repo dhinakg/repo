@@ -1,0 +1,17 @@
+Package: com.dhinakg.dallas
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: DhinakG
+Installed-Size: 0
+Depends: mobilesubstrate, wget, com.bingner.plutil
+Filename: ./pool/com.dhinakg.dallas_0.0.1_iphoneos-arm.deb
+Size: 1030
+MD5sum: 2778d894201633e9a0569445a12efece
+SHA1: 5b85a1a69e4a14e3eb40ad7382c83590bd040b5f
+SHA256: 0c606a49be528c15c63aa33ec4419e4d00159168e4202961f44e18db2f33b7dc
+SHA512: 634923630b8c70269b49a6680d90a6860ad3147a0db1fcd103e9eabb4388fb5250b3662c03510aef95b93f436f08bdce700fc1d3b4ddccaa322481d43f533225
+Homepage: https://dhinakg.github.io/repo
+Description: Redirect OTA server
+Name: Dallas
+
