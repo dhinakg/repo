@@ -1,10 +1,10 @@
 Architectures: iphoneos-arm
-Codename: beerpsi
+Codename: dhinakg
 Components: main
-Date: Mon, 10 Jan 2022 00:01:23 +0000
-Description: beerpsi's shitposting repo
-Label: beerpsi
-Origin: beerpsi
+Date: Fri, 14 Jan 2022 02:57:56 +0000
+Description: dhinakg repo
+Label: dhinakg
+Origin: dhinakg
 Suite: stable
 Version: 1.0
 MD5Sum:
@@ -13,29 +13,29 @@ MD5Sum:
  cdc70f4ad931fdfd21a13cb9fc5241e1              831 Packages.gz
  3342cb4ea394a491ec1bded4390c912e              822 Packages.lzma
  3e0e2a781c462e97fd358e7274abe7d3              868 Packages.xz
- 6ade150f95c608ecd6fbd2c27521669d              806 Packages.zst
- d4a49c1a2293b305f84276861bdff34c              199 Release
+ a56086ecb2f0bce3741c67b74ebb9111              809 Packages.zst
+ 28186478e6b46dabaa84e2c30f549a8d              185 Release
 SHA1:
  eb0fc0039ee3b09b3bc65dad520216739c4894e0             2061 Packages
  83c8b90f30003e2f367768f9a1a2c56424be68fa              928 Packages.bz2
  93a7069acc27636558130ed12e04d05d194c4682              831 Packages.gz
  d532abb29ec5eefee5f679b3c148380c6280b2d2              822 Packages.lzma
  91905e136d38742097470f259640180f05078bb0              868 Packages.xz
- ad767d87146e72176d2a99fe79bc95624342491e              806 Packages.zst
- 82e619725549c4cb4c5f99eb31e383167fe51035              199 Release
+ 24ac6d2f7f28e80ece58e7897198c7837d6e6636              809 Packages.zst
+ 129b243953c0402cd44f37581169053b0f2c6d59              185 Release
 SHA256:
  d8ce6e5610e71099a4fb638148fe77583fcb03c90276158f8abacf0ba9a4e715             2061 Packages
  561000dc1e60db5920b6f79cbc1ffd8556cf91950528733e9ff53137376d504d              928 Packages.bz2
  2e94c10060e7071fa9696d17cfe5f60497278fd886fb5ad231a86849a6f16d4b              831 Packages.gz
  32867a3e906d2ac0fa88926d13fa2b1c817f74e6b98c32e790f127562ea2d5e2              822 Packages.lzma
  ff8e9ca9677aca34526e316f958583fbc5bcf9ed6f3af1d7d1de4ffb88a935a6              868 Packages.xz
- 90e8de9533acf16004ec3f3654c0df7ad5e2b9218e1bca01c0ee622f64e29069              806 Packages.zst
- a4c57e09db039a518e69639fd94d2987b90abaeaff6b7221e8482b28de9c54b6              199 Release
+ 2a7390873d9b06124bc3041e0ee4cfe9f250be9a0d6a6e41ed98658c7d17af15              809 Packages.zst
+ 0342450ef77b98ee9e31e50120fa816d5af625e951d2acb2b7e82069349fbd4b              185 Release
 SHA512:
  761f1a81cc198fe853c9a1d5448d198634e454631b840d1e61a96e48815b01de2d0d78a37eaa70b72ebfda119b0aa8c3dc2fc457bc5013f5e51c1b7b95cee8af             2061 Packages
  0129f769c4e41f1991042aa547c3b92a7213a09ddc04da86c48b96a5ee58b0ee5651e2d1a9f050d97b2a115ca85a8378a9c136189f00e846fd0c9ecb6d3595bb              928 Packages.bz2
  4e29ba93e65c4236c278dafe706f85137ab09ec3a76fc59767458297bfc4e0f094e9c4c89e8964880a2c82d6ae550d3f1c9fbca0fa76dcf4c3fd5ec32cb6ce70              831 Packages.gz
  b9268a562ccac495fbe8fae0113364ce38d3d8a3304ea443011a2ee5637f606bbc3f63508ee11f09f7e55564a9473e64eab73ac30f13067e7507f515925d49e3              822 Packages.lzma
  f07d0e88d694851557382481047548a2da7400d77c7e73aa6ddf75adefd86b2f6f4e6362a2d9c5f865cbc8eb2e49f86baff9cd6a4cfa75a6cb65c3144d8221da              868 Packages.xz
- 34067735496f9240a41c1eba8c59f1f05fa991cc18ad017d194742685ec9c290c880542cb13f97b60ce16a9051915b6a9678576672225325bbbf652064cad724              806 Packages.zst
- 8bde23f937f509ae6672a7b38833ca5a9c3cdb67222ade73b70e2e267c3ba9f31c2920818428feba0a6be73696c5ec8877eb33a2361f8f932ab111388d9abc8d              199 Release
+ 25bb084b3fb8d4d830a57c206b570d4f91438776ea789bb95eac139f87c44d1e3b6fbd1b3d6d264db9f45838728e70719296ed8b28ef19e46ff034f507faa326              809 Packages.zst
+ a594ae2f0088c4c09f8417d022d420e0736a26bc440515a46447ecec4c9c7a94d666e603dd56cea0b12df2ca4f71dbeddaaf63ea6459ac0b655f2f9070536432              185 Release
