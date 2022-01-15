@@ -15,3 +15,22 @@ Homepage: https://dhinakg.github.io/repo
 Description: Redirect OTA server
 Name: Dallas
 
+Package: com.dhinakg.dallas
+Architecture: iphoneos-arm
+Version: 0.0.3
+Section: Tweaks
+Maintainer: DhinakG
+Installed-Size: 0
+Depends: mobilesubstrate, wget, com.bingner.plutil
+Filename: ./pool/com.dhinakg.dallas_0.0.3_iphoneos-arm.deb
+Size: 1330
+MD5sum: 2eedfb12167290110ae209cc1a6ad19d
+SHA1: a32e3e24f27dbc4e9fb4674404d7c4707a7320a0
+SHA256: eaee2dccb921193873613bbea0a077c58ce10902a4daadc6265fb6b5ccd7f235
+SHA512: 56d291b13ea0db7e3ebd646f8ffbab93fd88a0528c2911ddd55c5d969517e709ba6fefe72b34c28f7ff62a95ec6b689a23a91c5456649fbfa8fc3213c25de370
+Homepage: https://dhinakg.github.io/repo
+Description: Redirect OTA server
+ This package redirects the OTA search server to my own self-hosted server. This is an alpha release and will likely not work a few hours after publication.
+ Make sure you are supervised.
+Name: Dallas
+
