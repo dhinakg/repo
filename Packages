@@ -63,14 +63,14 @@ Installed-Size: 0
 Depends: mobilesubstrate, wget, com.bingner.plutil
 Filename: ./pool/com.dhinakg.dallas_0.1.1_iphoneos-arm.deb
 Size: 1290
-MD5sum: 9e4d9420a1622f8f1cdbd6f033244f43
-SHA1: 326a94263c6e2991391e0ed57a0f315cc856d813
-SHA256: 4c2cbab2eb669c3f6ed304a56db8f0de22b4fe0db2fe163c36256daac019c61a
-SHA512: 85b0b52d2db6e6203163f987562a1272dc98f3190ab586732c7d1ae6f15212fc8a41163ff562992f13bdaa6bd9a79863ff64f321f43a27ae40de51947048924c
+MD5sum: f0b3002b9dbaad1c14441172ad5a9bbd
+SHA1: ef49b3fc365308745b09fdc0a3a9e2eed238916b
+SHA256: 33e7e662514a0084e6a3f7672ca60bf1285b655334a366850cf046c6b078a4dd
+SHA512: 1f17559a76a3c529daafd25b5a35effda29f5a6802db75968532147f94f904ef58de78dffd6453c489838b749dc4973bf9f30a0e163e18b3656d0585b9cec1aa
 Homepage: https://dhinakg.github.io/repo
 Description: Redirect OTA server
  This package redirects the OTA search server to my own self-hosted server.
- 
+ .
  Make sure you are supervised.
 Name: Dallas
 
