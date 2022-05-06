@@ -96,26 +96,3 @@ Description: Enable OTA server redirection
  After installing, install a Dallas profile from https://dhinakg.github.io/dallas
 Name: Dallas
 
-Package: com.dhinakg.dallas
-Architecture: iphoneos-arm
-Version: 0.5.1-22+debug
-Section: Tweaks
-Maintainer: DhinakG
-Installed-Size: 140
-Depends: mobilesubstrate, com.bingner.plutil
-Suggests: net.cadoth.otaenabler
-Filename: ./pool/com.dhinakg.dallas_0.5.1-22debug_iphoneos-arm.deb
-Size: 5096
-MD5sum: 62c6c54481dc0d2a4e694d7c9b6345a1
-SHA1: 56cd769239a9829380808accc167b9090f932678
-SHA256: 675d1441a16c609587eec4d163a8f6605ffc7de47bc5a3252674ef4b186bcb29
-SHA512: 91056faa0eb2d89c386b3d5c32a84077faa83ebcfee19cc8a04ac9fdd38b1dc1687939269aee5f8af1263a5ac2043bd560e2736f554ecd9d17cde32d64a2d32e
-Homepage: https://dhinakg.github.io/repo
-Description: Enable OTA server redirection
- This package enables redirecting the OTA search server to my own self-hosted server.
- .
- To install this package you will need the OTAEnabler repo added - https://repo.cadoth.net
- .
- After installing, install a Dallas profile from https://dhinakg.github.io/dallas
-Name: Dallas
-
