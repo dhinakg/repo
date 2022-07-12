@@ -1,3 +1,20 @@
+Package: com.dhinakg.dahlia
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: DhinakG
+Installed-Size: 460
+Depends: mobilesubstrate, preferenceloader, net.cadoth.otaenabler
+Filename: ./pool/com.dhinakg.dahlia_1.0.0_iphoneos-arm.deb
+Size: 19396
+MD5sum: 4e46839be51bf040b6e48f51d6ef74bd
+SHA1: 8909b2e9cf21d7e27e4229662e8c778d7b578987
+SHA256: 3588b13fa87312bcf08c7486822a9b9bdc4e1b67a90ce0bbf1516b3838ed8539
+SHA512: 13d0d1e66543a47180a11b3e068c83309bdee6ba2d94b92546d671a699292465a977f43c8418a434444e4af12a01a4276df6d25bc27a92981ac7eee54b7d81ac
+Homepage: https://dhinakg.github.io/repo
+Description: Delay OTA tools
+Name: Dahlia
+
 Package: com.dhinakg.dallas
 Architecture: iphoneos-arm
 Version: 0.0.1
