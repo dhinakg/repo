@@ -15,6 +15,23 @@ Homepage: https://dhinakg.github.io/repo
 Description: Add an "Install Profile" button to the "Profile Downloaded" popup.
 Name: AddProfileInstallButton
 
+Package: com.dhinakg.addprofileinstallbutton
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: DhinakG
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./pool/com.dhinakg.addprofileinstallbutton_1.0.1_iphoneos-arm.deb
+Size: 6812
+MD5sum: b5287723fde54727eb1bcfaa97ba9044
+SHA1: aced2c57c278bbe70dca81f40b7a9f9e9652ec29
+SHA256: c1f6b9a232a09074c5fc4f3595b4b5276a4a0e760f861702bb918a5dd48de837
+SHA512: a18ff437b3d2ebb7c9950a589ec670e13750074f7bf829f6abdaf18cb6354a3bbd53017b2b738349b3b69eb4f8c785ee396b71d54515a1b56fc3aca0c81b99bf
+Homepage: https://dhinakg.github.io/repo
+Description: Add an "Install Profile" button to the "Profile Downloaded" popup.
+Name: AddProfileInstallButton
+
 Package: com.dhinakg.dahlia
 Architecture: iphoneos-arm
 Version: 1.0.0
