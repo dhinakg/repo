@@ -83,6 +83,23 @@ Homepage: https://dhinakg.github.io/repo
 Description: Delay OTA tools
 Name: Dahlia
 
+Package: com.dhinakg.dahlia
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: DhinakG
+Installed-Size: 404
+Depends: mobilesubstrate, preferenceloader, net.cadoth.otaenabler
+Filename: ./pool/com.dhinakg.dahlia_1.0.2_iphoneos-arm.deb
+Size: 18878
+MD5sum: aa364242e0a53d51204c63ac2f7408cd
+SHA1: 0a425053c44c13c642889da6f395eb71fa40b09b
+SHA256: 3e6e0243e96dbd36be2fa8b5e4819653979a4b90d8e116bda8e19f9167c017b1
+SHA512: 6fe86186394d9dc8c69b77ce99aa7b0a18ae95a73aa20d365dff4eabd76d83ccd4922d858c66a2d0d17a3d3ff4219be9757aa480af053ec3f1e6f35da50760ab
+Homepage: https://dhinakg.github.io/repo
+Description: Delay OTA tools
+Name: Dahlia
+
 Package: com.dhinakg.dallas
 Architecture: iphoneos-arm
 Version: 0.0.1
