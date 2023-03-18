@@ -22,7 +22,7 @@ apt-ftparchive \
         -o APT::FTPArchive::Release::Suite="stable" \
         -o APT::FTPArchive::Release::Version="1.0" \
         -o APT::FTPArchive::Release::Codename="dhinakg" \
-        -o APT::FTPArchive::Release::Architectures="iphoneos-arm" \
+        -o APT::FTPArchive::Release::Architectures="iphoneos-arm iphoneos-arm64" \
         -o APT::FTPArchive::Release::Components="main" \
         -o APT::FTPArchive::Release::Description="dhinakg repo" \
         release $OUTPUT_DIR > $OUTPUT_DIR/Release
