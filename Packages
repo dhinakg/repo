@@ -220,6 +220,38 @@ Description: Enable OTA server redirection
  After installing, install a Dallas profile from https://dhinakg.github.io/dallas
 Name: Dallas
 
+Package: com.dhinakg.dummyprefs
+Architecture: iphoneos-arm
+Version: 1.0.0
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Installed-Size: 193
+Depends: preferenceloader
+Filename: ./pool/com.dhinakg.dummyprefs_1.0.0_iphoneos-arm.deb
+Size: 33512
+MD5sum: 9ee483be46ae08270490802539cbd218
+SHA1: a691cb1b1e1d2abb6f67bd7aecd9965987f3f40b
+SHA256: 8abdb6a547d4a6863e7c5bc92a1198f8eb7fd091a6b2671014422bc6724eda21
+SHA512: 8b666a1c94946d41266954c0121d8d01f02cba2b88cfecf3110f0b1940e8930c6cee29342079a769af0a498a0e78c902f145d2adbceae9bc25aeeb60d4ec345b
+Description: Dummy PreferenceBundle to test your PreferenceLoader setup
+Author: Dhinak G <dhinak@dhinak.net>
+Name: DummyPrefs
+
+Package: com.dhinakg.dummyprefs
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Installed-Size: 193
+Depends: preferenceloader
+Filename: ./pool/com.dhinakg.dummyprefs_1.0.0_iphoneos-arm64.deb
+Size: 33560
+MD5sum: 902b7c960c708dc05fa9eca1cac75bfd
+SHA1: 770575d4b69102e7a101aff493512750d09626af
+SHA256: 516a486e1f8def27e0e9302d23bad412182d37b326a485d1636d76fcb9fa69f1
+SHA512: 3208d77240a7a66d3240133cdf4d271651d93113937af8b9cd1dfeaa032cae4d2225575655ac406fb59cdaed11c6af97ef0c761b2ffcf2f0d63b4f3de4319174
+Description: Dummy PreferenceBundle to test your PreferenceLoader setup
+Author: Dhinak G <dhinak@dhinak.net>
+Name: DummyPrefs
+
 Package: preferenceloader
 Architecture: iphoneos-arm64
 Version: 2.2.6
