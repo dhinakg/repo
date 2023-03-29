@@ -220,20 +220,3 @@ Description: Enable OTA server redirection
  After installing, install a Dallas profile from https://dhinakg.github.io/dallas
 Name: Dallas
 
-Package: preferenceloader
-Architecture: iphoneos-arm64
-Version: 2.2.6-rootless
-Section: System
-Maintainer: Dhinak G
-Installed-Size: 435
-Depends: mobilesubstrate
-Filename: ./pool/preferenceloader_2.2.6-rootless_iphoneos-arm64.deb
-Size: 30148
-MD5sum: 8ca32328b90073a4ecd50406d66aecdb
-SHA1: 3594d1e4a6f0516939ae5e6ffc5a5bd30b0b8686
-SHA256: 6808e147c63c6af1a223d4fe89d8c6f060f1af86876d3cab904fb15789571dea
-SHA512: 6a536ccd433be09a41e1b155f58b702e9f4a5858e06136bb37f1d11a4a437e18b6c6da57dff3fd55f02134b3f7f97a691769c6ce18a399056fcd7ac4ad80ff2c
-Description: load preferences in style
-Author: Dustin Howett <cydia.pl@relay.howett.net>
-Name: PreferenceLoader
-
