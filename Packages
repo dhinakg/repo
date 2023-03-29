@@ -272,6 +272,23 @@ SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 
 Package: preferenceloader
 Architecture: iphoneos-arm64
+Version: 2.2.6-1
+Section: System
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Installed-Size: 435
+Depends: mobilesubstrate
+Filename: ./pool/preferenceloader_2.2.6-1_iphoneos-arm64.deb
+Size: 30180
+MD5sum: f51dc3230ba6c4129f31f98579939639
+SHA1: 4acbbfd6e01656ac563b060471d224a66dfd37c7
+SHA256: 9b12fb84160b1146320a19b5b0ffa76688eb59bfc12de82c14bd114824f6a479
+SHA512: e7093ce6ef4063b7c4874437cef09b49825acaae7981bd6c6659d1f841a799099da8c6811a6efac68666783ae069e56980bc854409b62c0e3e6d46312faf854d
+Description: load preferences in style
+Author: Dustin Howett <cydia.pl@relay.howett.net>
+Name: PreferenceLoader
+
+Package: preferenceloader
+Architecture: iphoneos-arm64
 Version: 2.2.6
 Section: System
 Maintainer: Dhinak G <dhinak@dhinak.net>
