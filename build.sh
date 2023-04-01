@@ -17,7 +17,7 @@ lzma -c9 $OUTPUT_DIR/Packages > $OUTPUT_DIR/Packages.lzma
 
 echo "[Repository] Generating Release..."
 apt-ftparchive \
-        -o APT::FTPArchive::Release::Origin="dhinakg" \
+        -o APT::FTPArchive::Release::Origin="Dhinak's Repo" \
         -o APT::FTPArchive::Release::Label="dhinakg" \
         -o APT::FTPArchive::Release::Suite="stable" \
         -o APT::FTPArchive::Release::Version="1.0" \
