@@ -321,21 +321,3 @@ Description: load preferences in style
 Author: Dustin Howett <cydia.pl@relay.howett.net>
 Name: PreferenceLoader
 
-Package: uikittools
-Architecture: iphoneos-arm64
-Version: 2.1.3-1
-Priority: required
-Essential: yes
-Section: Utilities
-Maintainer: Dhinak G <dhinak@dhinak.net>
-Installed-Size: 680
-Depends: libiosexec1 (>= 1.2.2)
-Suggests: uikittools-extra (= 2.1.3-1)
-Filename: ./pool/uikittools_2.1.3-1_iphoneos-arm64.deb
-Size: 76066
-MD5sum: bfe9db28a3f830072eebbb2228e4f741
-SHA1: ad850b3c027ca002c470eb218297660e79560a78
-SHA256: a5d7eadb6b084e1ed13d6adcaf727f57f81162d1351eb8c7a3ec7adf071b994b
-SHA512: c8f132059ceee0a58244d35b1b3a09021b7405a9438aca119245963b067f332debeb5d426ebcf4b5ad440ddf3a7bb44d9b20ada9012a8d63c82594fdafa057df
-Description: Command line access for UIKit/LaunchServices/CoreServices
-
