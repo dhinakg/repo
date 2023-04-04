@@ -271,23 +271,6 @@ Icon: https://github.com/Sileo/Sileo/raw/stable/Icons/Nightly/Nightly_iOS.png
 SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 
 Package: preferenceloader
-Architecture: iphoneos-arm
-Version: 2.2.6-1
-Section: System
-Maintainer: Dhinak G <dhinak@dhinak.net>
-Installed-Size: 584
-Depends: mobilesubstrate
-Filename: ./pool/preferenceloader_2.2.6-1_iphoneos-arm.deb
-Size: 36856
-MD5sum: 1e11c243f0b8e854f44e6935dd47f900
-SHA1: 7f2a9509b0ad32e56e2a1fd8a966a9e546fa33e3
-SHA256: fc3b466e5fb5a35cf4722daa32f76c43c228f790a27e72aa7e7d9a42ec89f925
-SHA512: c7cf8ddf7b67618e265d135bf88356f20bd92357c50045228ed0b2ba5287ee80f48f6f6dfadefe310a3f0157f62bd496b8d450daf88c993ab29cf059d366925d
-Description: load preferences in style
-Author: Dustin Howett <cydia.pl@relay.howett.net>
-Name: PreferenceLoader
-
-Package: preferenceloader
 Architecture: iphoneos-arm64
 Version: 2.2.6-1
 Section: System
