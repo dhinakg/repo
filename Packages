@@ -252,6 +252,24 @@ Description: Dummy PreferenceBundle to test your PreferenceLoader setup
 Author: Dhinak G <dhinak@dhinak.net>
 Name: DummyPrefs
 
+Package: org.coolstar.sileonightly
+Architecture: iphoneos-arm64
+Version: 2.4+20230329.1680113211.1ef5b60
+Section: Packaging
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Depends:
+Filename: ./pool/org.coolstar.sileonightly_2.4+20230329.1680113211.1ef5b60_iphoneos-arm64.deb
+Size: 2349000
+MD5sum: e74b7e64e9a8164d60081bcb8ad15291
+SHA1: 90764f873c362b367b0ebc3e955f9e4e4c42471a
+SHA256: e1024b1f8511f556d801fbc1ff4126a4bc3a947e59e04f2c0e6a1755c948f8fa
+SHA512: f456d06f6d6c80a0c8094b9108d0d56ae54d69b1709625339ced76f88c110e8123ea429bda4b776ebc145d6a83bfacc044390c78f40f26826385f35442e20349
+Description: A modern APT package manager frontend
+Name: Sileo (Nightly Channel)
+Author: Amy While <me@anamy.gay>
+Icon: https://github.com/Sileo/Sileo/raw/stable/Icons/Nightly/Nightly_iOS.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
 Package: preferenceloader
 Architecture: iphoneos-arm64
 Version: 2.2.6-1
