@@ -256,16 +256,15 @@ Package: dhinakg-keyring
 Architecture: all
 Version: 2023.04.02
 Priority: required
-Essential: yes
 Section: Keyrings
 Maintainer: Dhinak G <dhinak@dhinak.net>
 Installed-Size: 4
 Filename: ./pool/dhinakg-keyring_2023.04.02_all.deb
-Size: 3048
-MD5sum: 0055db3bd0cf10d5894540c3a92fb2ef
-SHA1: bfb7b659ee9bcb2bfaa4c127eb54e00996203a1b
-SHA256: e078c185dc33ff170685b1ac3e36446ba08f0c32837e5506e33d6c53021b562e
-SHA512: 1bc331d9d08292ca88a3f12db1ed940d1b7019af04a3c246d9370a892709a8cf4f9732fb52f0c03165f39c3cf395763565a6f30730e492bc49388a31ccc864d1
+Size: 3036
+MD5sum: be3b7e1f153c48137bedddf9cfdfd8f3
+SHA1: 255aa89361947e4941ee50ff937424f5c6bb32ff
+SHA256: ef3a0653dd2e243927033164d1c93f0c643eaa3e1612ff503f863a7d1d87f371
+SHA512: 6d50d9d35230ae4a89158303b5ccf70c135c614b452eca721fcd18d8a460620be51cabea72dd84deffc0c063829ee0fe46bc2662c94aba74b246ffb0f6edcffd
 Homepage: https://dhinakg.github.io/repo
 Description: GnuPG key for ElleKit's repository and Dhinak G's personal repository
 Author: Dhinak G <dhinak@dhinak.net>
