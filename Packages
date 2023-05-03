@@ -252,23 +252,6 @@ Description: Dummy PreferenceBundle to test your PreferenceLoader setup
 Author: Dhinak G <dhinak@dhinak.net>
 Name: DummyPrefs
 
-Package: dhinakg-keyring
-Architecture: all
-Version: 2023.04.02
-Priority: required
-Section: Keyrings
-Maintainer: Dhinak G <dhinak@dhinak.net>
-Installed-Size: 4
-Filename: ./pool/dhinakg-keyring_2023.04.02_all.deb
-Size: 3036
-MD5sum: be3b7e1f153c48137bedddf9cfdfd8f3
-SHA1: 255aa89361947e4941ee50ff937424f5c6bb32ff
-SHA256: ef3a0653dd2e243927033164d1c93f0c643eaa3e1612ff503f863a7d1d87f371
-SHA512: 6d50d9d35230ae4a89158303b5ccf70c135c614b452eca721fcd18d8a460620be51cabea72dd84deffc0c063829ee0fe46bc2662c94aba74b246ffb0f6edcffd
-Homepage: https://dhinakg.github.io/repo
-Description: GnuPG key for ElleKit's repository and Dhinak G's personal repository
-Author: Dhinak G <dhinak@dhinak.net>
-
 Package: preferenceloader
 Architecture: iphoneos-arm64
 Version: 2.2.6-1
