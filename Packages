@@ -252,25 +252,6 @@ Description: Dummy PreferenceBundle to test your PreferenceLoader setup
 Author: Dhinak G <dhinak@dhinak.net>
 Name: DummyPrefs
 
-Package: me.lau.atria
-Architecture: iphoneos-arm64
-Version: 1.3.3-7
-Section: Tweaks
-Maintainer: Dhinak G <dhinak@dhinak.net>
-Installed-Size: 878
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.2-2)
-Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
-Filename: ./pool/me.lau.atria_1.3.3-7_iphoneos-arm64.deb
-Size: 165476
-MD5sum: 9e2aebba9530fd7a246fb06956e46657
-SHA1: 07f5188db0754a6b400cf372e68914ff330d32dc
-SHA256: c792c5fb6e6b20fe1e8c1ee40cf081a2d81c326f12e259bbf1bb488927648f89
-SHA512: 2c04daff7dec3ad67a21a3e68b732f6d3e55688857c4ed5d092481cbb2d9c39917567f242a2b19bb574967077a7693bef650324085dd4351c667aed01b405827
-Description: A proper homescreen layout editor for iOS 13-15
- Unofficial rootless build by Dhinak G
-Author: ren7995
-Name: Atria (unofficial)
-
 Package: preferenceloader
 Architecture: iphoneos-arm64
 Version: 2.2.6-1
