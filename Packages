@@ -286,28 +286,3 @@ Description: load preferences in style
 Author: Dustin Howett <cydia.pl@relay.howett.net>
 Name: PreferenceLoader
 
-Package: ws.hbang.alderis
-Architecture: iphoneos-arm64
-Version: 1.2-2
-Section: Development
-Maintainer: Dhinak G <dhinak@dhinak.net>
-Installed-Size: 2444
-Provides: org.thebigboss.libcolorpicker (= 99.0), me.nepeta.libcolorpicker (= 99.0)
-Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), uikittools
-Replaces: org.thebigboss.libcolorpicker, me.nepeta.libcolorpicker
-Filename: ./pool/ws.hbang.alderis_1.2-2_iphoneos-arm64.deb
-Size: 309724
-MD5sum: 92e106de469bb3e8949cced1ec755151
-SHA1: cfed36825faa9074a2241aa559408f1fd6be06e3
-SHA256: 2d030086765d8ad2e0c4668de0f919b92955730b6a864e4beffe5a9948a0a83a
-SHA512: aab5d841cf92eeea9721df2932488d6743c0f7ba01d01691a3b83a23148cb57708afd59be14772098e020651890d9cca1de74f532463b41364f39ca503ac1c6e
-Description: Color picker support library for tweaks
- Unofficial rootless build by Dhinak G
-Tag: role::developer, compatible_min::ios12.0
-Name: Alderis Color Picker (unofficial)
-Author: HASHBANG Productions <support@hbang.ws>
-Depiction: https://chariz.com/get/alderis
-Icon: https://img.chariz.cloud/icon/alderis/icon@3x.png
-Support: https://hashbang.productions/support/
-dev: hbang
-
