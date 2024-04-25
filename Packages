@@ -286,3 +286,20 @@ Description: load preferences in style
 Author: Dustin Howett <cydia.pl@relay.howett.net>
 Name: PreferenceLoader
 
+Package: preferenceloader
+Architecture: iphoneos-arm64
+Version: 2.2.7
+Section: System
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Installed-Size: 370
+Depends: mobilesubstrate
+Filename: ./pool/preferenceloader_2.2.7_iphoneos-arm64.deb
+Size: 17504
+MD5sum: 239c02b0191590a66fd70571717b736b
+SHA1: 3bfd32ead55227d4302fadb0e00292fbd0492059
+SHA256: f62d865fff12c5c6b9c5a90a2d6cef6e36b34ce4f77911c98bd30b413608c33e
+SHA512: 925198806fc0f5f2594b4c97f38188328547780934d2d536d4aaef2057cac6628ab451d243eb797ad34a04741d1495965a6cd6856079f6ed0160345eeefa3468
+Description: load preferences in style
+Author: Dhinak G <dhinak@dhinak.net>
+Name: PreferenceLoader
+
