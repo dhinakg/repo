@@ -252,6 +252,21 @@ Description: Dummy PreferenceBundle to test your PreferenceLoader setup
 Author: Dhinak G <dhinak@dhinak.net>
 Name: DummyPrefs
 
+Package: com.dhinakg.test
+Architecture: all
+Version: 2.0.0
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Installed-Size: 0
+Filename: ./pool/com.dhinakg.test_2.0.0_all.deb
+Size: 728
+MD5sum: 6fb7b234f0cf64778e253b029aeca57e
+SHA1: 6c8a39da53af7f06f83067460b052aa3239ab849
+SHA256: da4e3b9f6297a624a481deff6fbe7bfeb65392f0118ec9a86e077cc1d990a31d
+SHA512: 6877b2d62fb82f821eb9775c3eb210d491d4b04c3a0ab89a006541d4edac60cd558cd76e1928b057250073c77e702dcca19da1433364529cc4a7b98d5aa39db7
+Description: TEST PACKAGE
+Author: Dhinak G <dhinak@dhinak.net>
+Name: Test Package
+
 Package: preferenceloader
 Architecture: iphoneos-arm64
 Version: 2.2.6-1
